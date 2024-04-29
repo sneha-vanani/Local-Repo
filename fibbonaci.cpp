@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int fibo[20],i,j,a=0,b=1,n;
+    int fibo[20],i,a=0,b=1,n;
     cout << "enter n : ";
     cin >>n;
 
